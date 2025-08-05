@@ -1,5 +1,5 @@
 #  Hey! I'm Jami  
-CS student & beginner full-stack learner | Exploring web dev, C# projects & creative coding ideas 
+CS student & beginner full-stack learner | Exploring web dev & creative coding ideas 
 
 ---
 
@@ -17,7 +17,8 @@ CS student & beginner full-stack learner | Exploring web dev, C# projects & crea
 -  HTML, CSS, JavaScript  
 -  Frontend: Starting with basics  
 -  Backend: Soon diving into databases & server-side logic  
--  Familiar with: C#, Git, GitHub, VS Code
+-  Familiar with: C, Java, C#, C++
+-  Will Learn: Python 
 
 ---
 
