@@ -1,16 +1,32 @@
-## Hi there 👋
+#  Hey! I'm Jami  
+CS student & beginner full-stack learner | Exploring web dev, C# projects & creative coding ideas 
 
-<!--
-**Jami-0/Jami-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###  What I'm Doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Just started my full-stack learning journey  
+-  Exploring web technologies and building small projects  
+-  I like experimenting with C#, design, and anything creative  
+-  My goal? To grow into a confident full-stack developer
+
+---
+
+###  Tools I’m Learning
+
+-  HTML, CSS, JavaScript  
+-  Frontend: Starting with basics  
+-  Backend: Soon diving into databases & server-side logic  
+-  Familiar with: C#, Git, GitHub, VS Code
+
+---
+
+###  I'm All About
+
+- Learning by doing  
+- Keeping things simple but cute  
+- Sharing what I build, no matter how small!
+
+---
+
+> “Everyone starts somewhere — I'm starting now!” <
