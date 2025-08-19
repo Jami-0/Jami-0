@@ -30,4 +30,4 @@ CS student & beginner full-stack learner | Exploring web dev & creative coding i
 
 ---
 
-> “Everyone starts somewhere — I'm starting now!” <
+> “Everyone starts somewhere, I'm starting now!” <
